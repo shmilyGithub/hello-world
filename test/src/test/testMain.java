@@ -13,6 +13,9 @@ public class testMain {
 		System.out.println("xxx="+getStringDay(new Date(),0));
 		System.out.println("xxx="+getStringDay(new Date(),1));
 		System.out.println("xxx="+getStringDay(new Date(),2));
+		System.out.println("xxx="+getStringDay(new Date(),3));
+		System.out.println("xxx="+getStringDay(new Date(),4));
+		System.out.println("xxx="+getStringDay(new Date(),5));
 	}
 	/**
 	 * 获取当前时间后几天
